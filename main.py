@@ -14,7 +14,8 @@ import os
 #    st.warning("Please set GOOGLE_API_KEY.")
 #    st.stop()
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDfpL0ndH73Hfz1HRbksaKNDI_tC9wyjJg"
+# enter you respective google api key
+os.environ["GOOGLE_API_KEY"] = "API_KEY"
 
 
 st.title("🔍 Gemini RAG App")
